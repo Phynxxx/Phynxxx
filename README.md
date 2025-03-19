@@ -1,4 +1,6 @@
-# 👋 Hello World! I'm Syamantak Pyne
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Syamantak+Pyne!;" />
+</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syamantak_Pyne-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/syamantak-pyne)
 [![Portfolio](https://img.shields.io/badge/Portfolio-syamantak.vercel.app-000000?style=flat-square&logo=vercel)](https://syamantak.vercel.app)
