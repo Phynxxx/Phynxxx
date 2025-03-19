@@ -93,12 +93,8 @@ A decentralized music streaming platform built on IPFS, because why stream compr
 
 ### 📈 Contribution Graph
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phynxxx&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phynxxx&theme=radical&hide_border=true" width="100%"/>
+<div align=center>
+    <img src="profile-3d-contrib/profile-night-green.svg" height="500" alt="Profile 3D Contrib">
 </div>
 
 ---
